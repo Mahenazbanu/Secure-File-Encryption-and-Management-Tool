@@ -1,6 +1,3 @@
-# intern-project
-
-
 # 🔐 Secure File Encryption and Management Tool
 
 A secure, cross-platform utility to encrypt and decrypt files using **AES-256 in CBC mode**, with integrity verification via **SHA-256 hashing**. Includes both **CLI and GUI interfaces** for flexible use across environments.
